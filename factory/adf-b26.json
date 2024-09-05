@@ -1,0 +1,9 @@
+{
+	"name": "adf-b26",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f6468a4f-6cca-4af5-ab19-612b8bc2ec46",
+		"tenantId": "ebb93fd2-1020-4c3e-b1b8-364a45fbf450"
+	}
+}
